@@ -13,7 +13,7 @@ namespace ObjectOrientedPrograms.Inventorymanagement
 
         public void ReadJsonFile(string fileName)
         {
-            using (StreamReader reader = new StreamReader(fileName))
+            using (StreamReader reader = new StreamReader(fileName)) 
             {
                 var json = reader.ReadToEnd();
 
