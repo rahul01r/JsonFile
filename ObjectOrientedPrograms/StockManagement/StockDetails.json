@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Amazon",
+    "Share": 10,
+    "SharePrice": 250
+  },
+  {
+    "Name": "Flipkart",
+    "Share": 18,
+    "SharePrice": 150
+  },
+  {
+    "Name": "Myntra",
+    "Share": 10,
+    "SharePrice": 20
+  }
+
+]
